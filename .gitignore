@@ -1,0 +1,14 @@
+## Ignore Visual Studio temporary files and build results
+
+# Build Results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache/options directory
+.vs/
+
+# File specific
+*.pdb
+*.log
+*.obj
+*.meta
